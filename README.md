@@ -10,7 +10,7 @@
 - 📫 How to reach me **rohitraj802217@gmail.com**
 
  
-- ⚡ Fun fact **I love to watch movie .**
+- ⚡ Fun fact **I love to watch movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
