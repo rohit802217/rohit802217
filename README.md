@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **rohitraj802217@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RL3VxsDIOC9YH2UC6DBNvuMVbzvW7xJR/view?usp=drivesdk](https://drive.google.com/file/d/1RL3VxsDIOC9YH2UC6DBNvuMVbzvW7xJR/view?usp=drivesdk)
-
+ 
 - ⚡ Fun fact **I love to watch movie .**
 
 <h3 align="left">Connect with me:</h3>
