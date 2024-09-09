@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit802217&label=Profile%20views&color=0e75b6&style=flat" alt="rohit802217" /> </p>
 
-- 🔭 I’m currently working on **Fronted Engineer (digited wed development)**
+- 🔭 I’m currently working on **Fronted Engineer (digited wed solustion)**
 
 - 🌱 I’m currently learning **spring boot and microservices**
 
